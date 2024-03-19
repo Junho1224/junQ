@@ -1,4 +1,3 @@
-# 1259
 while True:
     a = input()
     if a == '0':
